@@ -1,0 +1,409 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  
+  font-family: sans-serif;
+  
+}
+header{
+  background: url(../image/bg1.png) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  float: left;
+}
+section{
+  background: url(../image/bg2.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+  float: left;
+  
+}
+
+header .container-1{
+  width: 90%;
+  margin: auto;
+   
+}
+.container-1 .group-1{
+padding: 35px 0;
+}
+.container-1 .group-1 .manu-part{
+  width: 100%;
+  float: left;
+}
+.container-1 .group-1 .manu-part .logo-part{
+  width: 50%;
+  float: left;
+}
+.group-1 .manu-part .logo-part img{
+
+}
+.container-1 .group-1 .manu-part .delivary{
+  width: 50%;
+  float: left;
+  
+}
+.group-1 .manu-part .delivary .deli{
+  text-align: end;
+}
+.group-1 .manu-part .delivary .deli img{
+  margin-left: 20px;
+}
+.group-1 .manu-part .delivary .deli span{
+
+}
+
+.group-1 .manu-part .delivary #menu{
+
+}
+.group-1 .manu-part .delivary #menu ul{
+  list-style: none;
+  text-align: end;
+}
+.manu-part .delivary #menu ul li{
+  display: inline-block;
+}
+
+.manu-part .delivary #menu ul li a{
+  
+  float: left;
+  margin: 20px 0;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 5px;
+}
+
+.burger-part{
+
+}
+ 
+.burger-part .row-1{
+  width: 100%;
+  float: left;
+}
+.burger-part .row-1 .culom-1{
+  width: 45%;
+  float: left;
+  margin-top: 32px;
+}
+.burger-part .row-1 .culom-1 .heading-1{
+  display: inline-block;
+  border: 4px dotted;
+  padding: 10px;
+  margin-bottom: 27px;
+}
+.row-1 .culom-1 .heading-1 h4{
+  font-size: 13px;
+}
+.burger-part .row-1 .culom-1 h1{
+  font-size: 96px;
+    text-shadow: 2px 3px #ffffff;
+} /*end header*/
+
+.burger-part .row-1 .culom-1 h3{
+  font-size: 55px;
+  text-shadow: 2px 3px #ffffff;
+}
+
+
+.burger-part .row-1 .culom-2{
+  width: 55%;
+  float: left;
+  margin-bottom: 10px;
+}
+.burger-part .row-1 .culom-2 .img-2{
+
+}
+.row-1 .culom-2 .img-2 img{
+  width: 86%;
+} /* end header*/
+
+section .contaiber-2{
+  width: 90%;
+  margin: auto;
+  margin-top: 65px;
+   
+}
+.row-2 .culom-3{
+width: 50%;
+float: left;
+}
+.row-2 .culom-3 .img-part-2{
+  width: 90%;
+   margin-left: -20px;
+}     
+ 
+.row-2 .culom-3 .title{
+  position: relative;
+  bottom: 392px;
+  left: 0px;
+  color: white
+}
+ 
+.row-2 .culom-4{
+  width: 50%;
+  float:left;
+}
+.row-2 .culom-4 .img-part-3{
+width: 90%;
+margin-left: 29px;
+}
+ 
+.row-2 .culom-4 .title-1{
+  position: relative;
+  top: -166px;
+  left: 18px;
+  color: white;
+}
+.row-2 .culom-4 .img-part-3 .card-2{
+  
+    position: relative;
+    top: -45px;
+}
+.row-2 .culom-4 .title-2{
+  position: relative;
+  top: -174px;
+  left: 18px;
+  color: white;
+}
+.contaiber-2 .group-2 .row-2 h3{
+  font-size: 16px;
+} /* end row-2*/
+
+.row-3{
+
+}
+ .row-3 #para{
+  text-align: center;
+}
+.row-3 #para #box-1{
+  display: inline-block;
+    padding: 10px 21px;
+    background: #03f4d2
+}
+.row-3 #para h1{
+  padding: 17px 0;
+} /*end row-3*/
+
+.group-3{
+  margin-top: 72px;
+  width: 100%;
+  float: left;
+}
+.row-4{
+   
+}
+#culom-2{
+  width: 33.33%;
+  float: left;
+  
+}
+  #culom-2 .img-box{
+  width: 100%;
+  
+}
+#culom-2 .img-box img{
+  width: 100%;
+}
+ #culom-2 .title-2{
+  text-align: center;
+  
+}
+  #culom-2 .title-2 p{
+  margin: 15px 0;
+}
+
+  
+#culom-2 .title-2 .btn-2 button{
+  padding: 10px 15px;
+    border: none;
+    background: green;
+    color: white;
+    
+}
+
+.img-box #w-h{ 
+  height: 256px;
+} /* end group-3*/
+ 
+.group-4{
+  margin: 50px 48px;
+  padding: 15px;
+  float: left;
+  
+}
+.group-4 #boxs{
+   
+  float: left;
+  box-shadow: 2px 2px 5px;
+   
+   
+}
+.group-4 #boxs .contents{
+  width: 50%;
+  float: left;
+}
+#boxs .contents .gp-box{
+  width: 90%;
+  padding: 50px;
+}
+.contents .gp-box h1{
+padding: 15px 0;
+}
+.circul{
+  float: left;
+  padding: 25px 25px;
+  margin-top: 100px;
+  margin-left: 26px;
+}
+.contents #one{
+  
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: red;
+  float: left;
+   
+  margin-right: 10px;
+}
+.contents #two{
+  
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: rgb(223, 207, 207);
+  float: left;
+ 
+  margin-right: 10px;
+}
+.contents #three{
+  
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: rgb(223, 207, 207);
+  float: left;
+  
+  margin-right: 10px;
+}
+.group-4 .gp-card{
+  width: 50%;
+  float: left;
+}
+.group-4 .gp-card .imag{
+  padding: 12px 7px;;
+}
+.group-4 .gp-card .imag img{
+ width: 100%;
+} /*end group-4*/
+.group-5{
+  background: url(../image/burger9.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+  float: left;
+}
+.form-part{
+text-align: center;
+padding: 247px 0
+}
+.form-part .fm-haeding{
+  padding: 15px 0;
+}
+.form-part .fm-haeding h1{
+  font-size: 49px;
+  padding-top: 10px;
+}
+.form-part .forms{
+  padding: 27px 0;
+  width: 40%;
+  margin: auto;
+}
+.form-part .forms .fm-1{
+  width: 50%;
+  float: left;
+    
+}
+.form-part .forms .fm-2{
+  width: 50%;
+  float: left;
+}
+.form-part .forms form{
+  
+}
+.form-part .forms form input{
+  width: 240px;
+  padding: 15px;
+  margin: 15px 0;
+   border-radius: 7px;
+   border: 1px solid rgb(223, 207, 207);
+}
+.forms form input[type=button]{
+  background: red;
+  border: none;
+  color: white;
+  font-size: 16px;
+} /* end group-5*/
+.group-6{
+  width: 90%;
+  margin: auto;
+}
+.group-6 .ft-img img{
+  width: 100%;
+  float: left;
+}
+.group-6 .footer-part .posi-set{
+   
+}
+.group-6 .footer-part .ft-logo{
+  position: relative;
+    bottom: 450px;
+    left: 30px;
+}
+.footer-part .text-part{
+width: 50%;
+float: left;
+position: relative;
+bottom: 350px;
+left: 35px;
+padding-right: 220px;
+color: #ffffff;
+}
+.footer-part .icon-part{
+  width: 50%;
+  float: left;
+  position: relative;
+bottom: 350px;
+left: 35px;
+color: white;
+}
+.footer-part .icon-part img{
+   margin: 7px 17px;
+    
+}
+.footer-part .icon-part span{
+  
+}
+.footer-part .writting-part{
+  width: 50%;
+  float: left;
+}
+.footer-part .icons-part{
+  width: 50%;
+  float: left;
+  text-align: end;
+  
+}
+.footer-part .icons-part img{
+  margin-right: 15px;
+}
+.footer-part .last-part{
+  width: 90%;
+  margin: auto;
+  position: relative;
+  bottom: 200px;
+  color: white;
+}
